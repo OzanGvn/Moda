@@ -1,0 +1,16 @@
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    background: #666666;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 75%;
+    font-family: 'Arvo', serif;
+}
+img.button {
+    width: 5%;
+    height: 5%;
+}
